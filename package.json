@@ -1,0 +1,22 @@
+{
+  "name": "manit-student-portal-scraping",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/satya-supercluster/manit-student-portal-scraping#readme",
+  "bugs": {
+    "url": "https://github.com/satya-supercluster/manit-student-portal-scraping/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/satya-supercluster/manit-student-portal-scraping.git"
+  },
+  "license": "ISC",
+  "author": "Satyam Gupta",
+  "main": "scraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "puppeteer": "^24.6.1"
+  }
+}
